@@ -38,7 +38,8 @@ import QuickActions from "../components/QuickActions";
 // import "../../../frontend/src/components/FleetManagement.css"
 // import "../../../frontend/src/components/TeamManagement.css"
 // import "../../../frontend/src/components/ComplianceReports.css"
-import "../../../frontend/src/components/global1.css";
+import "../components/global1.css";
+
 // SVG Icons
 const BellIcon = () => <FiBell size={20} style={{ color: "#f59e0b" }} />;
 
