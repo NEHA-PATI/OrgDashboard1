@@ -43,7 +43,7 @@ import {
   TableHeader,
   TableRow,
 }  from "./basic-ui";
-import "./global1.css"
+import "./global.css"
 
 
 // Simple Dropdown Component
